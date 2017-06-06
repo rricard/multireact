@@ -4,17 +4,19 @@
   "private": true,
   "dependencies": {
     "expo": "^17.0.0",
-    "jest": "^19.0.0",
     "react": "16.0.0-alpha.6",
     "react-dom": "^15.5.4",
     "react-native": "https://github.com/expo/react-native/archive/sdk-17.0.0.tar.gz",
     "react-native-web": "^0.0.97"
   },
   "devDependencies": {
+    "exp": "^41.0.0",
+    "jest": "^19.0.0",
     "react-scripts": "1.0.7"
   },
   "scripts": {
     "start": "react-scripts start",
+    "start-native": "exp start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
