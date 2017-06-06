@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^15.5.4",
+    "expo": "^17.0.0",
+    "jest": "^19.0.0",
+    "react": "16.0.0-alpha.6",
     "react-dom": "^15.5.4",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-17.0.0.tar.gz",
     "react-native-web": "^0.0.97"
   },
   "devDependencies": {

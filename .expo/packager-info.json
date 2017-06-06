@@ -1,0 +1,8 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19002,
+  "packagerPid": 8224,
+  "expoServerNgrokUrl": "https://xv-tfd.rricard.multiplatform.exp.direct",
+  "packagerNgrokUrl": "https://packager.xv-tfd.rricard.multiplatform.exp.direct",
+  "ngrokPid": 8244
+}
