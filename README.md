@@ -1,6 +1,6 @@
 # Web/iOS/Android project
 
-This is an example project showing wow you can simultenaously target multiple platforms.
+This is an example project showing how you can simultenaously target multiple platforms.
 
 ## Dependencies
 
